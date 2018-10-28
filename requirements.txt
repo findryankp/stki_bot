@@ -1,0 +1,14 @@
+line-bot-sdk
+pip 
+flask
+gunicorn
+psycopg2
+gensim
+tensorflow
+keras
+scikit-learn
+requests
+numpy
+argparse
+
+
